@@ -1,0 +1,8 @@
+D:\ClassMember_6518\bin\Debug\ClassMember_6518.exe.config
+D:\ClassMember_6518\bin\Debug\ClassMember_6518.exe
+D:\ClassMember_6518\bin\Debug\ClassMember_6518.pdb
+D:\ClassMember_6518\obj\Debug\ClassMember_6518.csproj.AssemblyReference.cache
+D:\ClassMember_6518\obj\Debug\ClassMember_6518.csproj.CoreCompileInputs.cache
+D:\ClassMember_6518\obj\Debug\ClassMember_6518.exe
+D:\ClassMember_6518\obj\Debug\ClassMember_6518.pdb
+D:\ClassMember_6518\obj\Debug\ClassMember_6518.exe.config
